@@ -19,7 +19,7 @@ To use the WhisperGUI, you need to have the following installed:
  
     **scoop install ffmpeg**
  
-# Disclosures
+# Acknowledgements
 WhisperGUI was made with help from ChatGPT.
 
 This repository uses Whisper, which is licensed under the MIT License (Copyright (c) 2022 OpenAI). The original source code can be found at https://github.com/openai/whisper.
