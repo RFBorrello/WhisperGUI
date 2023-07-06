@@ -7,7 +7,7 @@ To use the WhisperGUI, you need to have the following installed:
 - Whisper - this can be pip along with its dependencies from the command line (after Python is installed) using:
   
 
-pip install git+https://github.com/openai/whisper.git
+  pip install git+https://github.com/openai/whisper.git
 
   
 - FFMPEG - this can be installed from here: https://ffmpeg.org/download.html
